@@ -14,7 +14,7 @@ import {
 } from 'react-native';
 import HomeScreen from './js/HomeScreen';
 import ProfileScreen from './js/ProfileScreen';
-import Component01 from './js/Component01';
+import Component01 from './js/Component01/Component01';
 
 
 const RootStack = StackNavigator({
