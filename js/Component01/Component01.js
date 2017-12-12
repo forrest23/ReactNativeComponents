@@ -15,7 +15,7 @@ import {
 import { captureRef, captureScreen } from "react-native-view-shot";
 import Btn from "./Btn";
 const catsSource = {
-    uri: "https://i.imgur.com/5EOyTDQ.jpg"
+    uri: "https://pic.yupoo.com/forrest071/FXTxkoxj/medium.jpg"
 };
 
 

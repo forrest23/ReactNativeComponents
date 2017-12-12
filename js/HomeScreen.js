@@ -17,6 +17,15 @@ export default class HomeScreen extends React.Component {
         size: 48,
         color: "#ff856c",
         hideNav: false,
+      },{
+        key: 1,
+        title: "02-文档查看组件",
+        component: "Component02",
+        isFA: false,
+        icon: "ios-document-outline",
+        size: 48,
+        color: "#9F4D95",
+        hideNav: false,
       }]
     }
   }
