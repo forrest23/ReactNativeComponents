@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.0.0",
     "react-native": "0.50.4",
+    "react-native-circular-progress": "^0.1.2",
     "react-native-doc-viewer": "^2.6.3",
     "react-native-fs": "^2.9.2",
     "react-native-vector-icons": "^4.4.2",

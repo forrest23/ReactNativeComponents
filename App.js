@@ -16,13 +16,15 @@ import HomeScreen from './js/HomeScreen';
 import ProfileScreen from './js/ProfileScreen';
 import Component01 from './js/Component01/Component01';
 import Component02 from './js/Component02/Component02';
+import Component03 from './js/Component03/Component03';
 
 
 const RootStack = StackNavigator({
   Home: { screen: HomeScreen },
   Profile: { screen: ProfileScreen },
   Component01: {screen: Component01},
-  Component02: {screen: Component02}
+  Component02: {screen: Component02},
+  Component03: {screen: Component03}
 });
 
 export default class App extends Component {
