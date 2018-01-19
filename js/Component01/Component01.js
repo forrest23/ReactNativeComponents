@@ -13,7 +13,7 @@ import {
 } from "react-native";
 
 import { captureRef, captureScreen } from "react-native-view-shot";
-import Btn from "./Btn";
+import Btn from "../Share/Btn";
 const catsSource = {
     uri: "https://pic.yupoo.com/forrest071/FXTxkoxj/medium.jpg"
 };

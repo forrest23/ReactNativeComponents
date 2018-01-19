@@ -10,6 +10,10 @@ export default class Component03 extends Component {
         pointsDelta: 0,
         points: 325
       };
+
+      static navigationOptions = ({ navigation }) => ({
+        title: `${navigation.state.params.name}`,
+    });
     
       componentWillMount() {
         this._panResponder = PanResponder.create({

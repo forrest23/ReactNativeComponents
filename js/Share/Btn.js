@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     color: "#36f",
     borderWidth: 1,
     borderColor: "#36f",
-    fontSize: 12
+    fontSize: 14
   }
 });
 
