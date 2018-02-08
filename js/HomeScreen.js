@@ -24,7 +24,7 @@ export default class HomeScreen extends React.Component {
         isFA: false,
         icon: "ios-document-outline",
         size: 48,
-        color: "#9F4D95",
+        color: "#66CC33",
         hideNav: false,
       },{
         key: 2,
@@ -33,7 +33,7 @@ export default class HomeScreen extends React.Component {
         isFA: false,
         icon: "ios-checkmark-circle-outline",
         size: 48,
-        color: "#9F4D95",
+        color: "#CC0066",
         hideNav: false,
       },{
         key: 3,
@@ -43,6 +43,15 @@ export default class HomeScreen extends React.Component {
         icon: "ios-square-outline",
         size: 48,
         color: "#9F4D95",
+        hideNav: false,
+      },{
+        key: 4,
+        title: "05-表格组件",
+        component: "Component05",
+        isFA: false,
+        icon: "md-grid",
+        size: 48,
+        color: "#660099",
         hideNav: false,
       }]
     }

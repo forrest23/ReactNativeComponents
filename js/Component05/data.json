@@ -1,0 +1,6 @@
+[
+    {"isChecked": true, "no" : 1, "name" : "生殖医学中心", "qty":"10"},
+    {"isChecked": false, "no" : 2, "name" : "肝胆胰外科肝胆胰外科一病区肝胆胰外科肝胆胰外科一病区", "qty":"10"},
+    {"isChecked": true, "no" : 3, "name" : "肝胆胰外科一病区", "qty":"100"},
+    {"isChecked": true, "no" : 4, "name" : "妇科一病区", "qty":"78"}
+]
