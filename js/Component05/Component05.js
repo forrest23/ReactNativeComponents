@@ -71,6 +71,10 @@ export default class Component05 extends Component {
     this.renderRow = this.renderRow.bind(this);
   }
 
+  static navigationOptions = ({ navigation }) => ({
+    title: `${navigation.state.params.name}`,
+  });
+
   render() {
     return (
       <View style={styles.container}>
