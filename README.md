@@ -11,6 +11,8 @@ React Native组件大全，介绍React Native常用组件的使用方法和使�
 6. 图片组件 （[react-native-image-viewer](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
 7. 自动完成输入框组件 （[react-native-autocomplete-input](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
 
+![截图](https://raw.githubusercontent.com/forrest23/ReactNativeComponents/master/image/screenshot.png)
+
 欢迎关注我的微信公众号：*React Native开发圈*
 
 ![React Native开发圈](http://pic.yupoo.com/forrest071/GXPy4uDg/small.jpg)
