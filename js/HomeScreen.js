@@ -64,7 +64,7 @@ export default class HomeScreen extends React.Component {
         hideNav: false,
       },{
         key: 6,
-        title: "07-自动完成输入框",
+        title: "07-智能提示输入框",
         component: "Component07",
         isFA: false,
         icon: "ios-create-outline",

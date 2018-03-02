@@ -9,7 +9,7 @@ React Native组件大全，介绍React Native常用组件的使用方法和使�
 4. 弹出框组件 （[react-native-popup-dialog](http://mp.weixin.qq.com/s/D2GvwPRkKyxGGlSEVALyTw)）
 5. 表格组件 （[react-native-data-table](http://mp.weixin.qq.com/s/GMthr6ZhhvSRnmLaszlwAA)）
 6. 图片组件 （[react-native-image-viewer](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
-7. 自动完成输入框组件 （[react-native-autocomplete-input](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
+7. 智能提示输入框组件 （[react-native-autocomplete-input](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
 
 ![截图](https://raw.githubusercontent.com/forrest23/ReactNativeComponents/master/image/screenshot.png)
 
