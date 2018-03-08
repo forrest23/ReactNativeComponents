@@ -71,6 +71,15 @@ export default class HomeScreen extends React.Component {
         size: 48,
         color: "#3498DB",
         hideNav: false,
+      },{
+        key: 7,
+        title: "08-图片选择裁剪",
+        component: "Component08",
+        isFA: false,
+        icon: "ios-cut-outline",
+        size: 48,
+        color: "#007979",
+        hideNav: false,
       }]
     }
   }

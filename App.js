@@ -21,7 +21,7 @@ import Component04 from './js/Component04/Component04';
 import Component05 from './js/Component05/Component05';
 import Component06 from './js/Component06/Component06';
 import Component07 from './js/Component07/Component07';
-
+import Component08 from './js/Component08/Component08';
 
 const RootStack = StackNavigator({
   Home: { screen: HomeScreen },
@@ -33,6 +33,7 @@ const RootStack = StackNavigator({
   Component05: {screen: Component05},
   Component06: {screen: Component06},
   Component07: {screen: Component07},
+  Component08: {screen: Component08},
 });
 
 export default class App extends Component {
