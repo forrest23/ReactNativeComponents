@@ -11,7 +11,7 @@ React Native组件大全，介绍React Native常用组件的使用方法和使�
 6. 图片组件 （[react-native-image-viewer](http://mp.weixin.qq.com/s/7bammoST1sxAVoKEDFZ6FA)）
 7. 智能提示输入框组件 （[react-native-autocomplete-input](https://mp.weixin.qq.com/s/8f7_PywfsEvBckWT9Z-fng)）
 8. 图片选择裁剪组件 （[react-native-image-crop-picker](http://mp.weixin.qq.com/s/z0E-XKRcsc6IjqZt6jrdgg)）
-9. 二维码组件 （[react-native-qrcode](http://weixin.qq.com/r/1HWFnTrEGGdnrX7_9yDG)）
+9. 二维码组件 （[react-native-qrcode](https://mp.weixin.qq.com/s/gLK4-K_PT3ii89OO3HQ1Gg)）
 
 ![截图](https://raw.githubusercontent.com/forrest23/ReactNativeComponents/master/image/screenshot.png)
 
