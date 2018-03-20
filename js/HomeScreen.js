@@ -80,6 +80,15 @@ export default class HomeScreen extends React.Component {
         size: 48,
         color: "#007979",
         hideNav: false,
+      },{
+        key: 8,
+        title: "09-二维码生成",
+        component: "Component09",
+        isFA: true,
+        icon: "qrcode",
+        size: 48,
+        color: "black",
+        hideNav: false,
       }]
     }
   }

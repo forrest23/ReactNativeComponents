@@ -17,6 +17,7 @@
     "react-native-image-crop-picker": "^0.20.0",
     "react-native-image-zoom-viewer": "^2.0.20",
     "react-native-popup-dialog": "^0.10.46",
+    "react-native-qrcode": "^0.2.6",
     "react-native-vector-icons": "^4.4.2",
     "react-native-video": "^2.0.0",
     "react-native-view-shot": "^2.2.0",

@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   }
 });
 
-export default class App extends Component {
+export default class Component08 extends Component {
 
   constructor() {
     super();
