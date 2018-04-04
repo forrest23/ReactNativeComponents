@@ -89,6 +89,15 @@ export default class HomeScreen extends React.Component {
         size: 48,
         color: "black",
         hideNav: false,
+      },{
+        key: 9,
+        title: "10-悬浮按钮",
+        component: "Component10",
+        isFA: false,
+        icon: "ios-radio-button-off",
+        size: 48,
+        color: "black",
+        hideNav: false,
       }]
     }
   }
