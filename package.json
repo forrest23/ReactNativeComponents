@@ -13,6 +13,7 @@
     "react-native-autocomplete-input": "^3.5.0",
     "react-native-circular-progress": "^0.1.2",
     "react-native-data-table": "^0.2.0",
+    "react-native-datepicker": "^1.7.2",
     "react-native-doc-viewer": "^2.6.3",
     "react-native-fs": "^2.9.2",
     "react-native-image-crop-picker": "^0.20.0",

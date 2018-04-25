@@ -98,6 +98,15 @@ export default class HomeScreen extends React.Component {
         size: 48,
         color: "black",
         hideNav: false,
+      },{
+        key: 10,
+        title: "11-日期选择组件",
+        component: "Component11",
+        isFA: false,
+        icon: "ios-time-outline",
+        size: 48,
+        color: "#8A2BE2",
+        hideNav: false,
       }]
     }
   }
