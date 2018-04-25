@@ -13,6 +13,7 @@ React Native组件大全，介绍React Native常用组件的使用方法和使�
 8. 图片选择裁剪组件 （[react-native-image-crop-picker](http://mp.weixin.qq.com/s/z0E-XKRcsc6IjqZt6jrdgg)）
 9. 二维码组件 （[react-native-qrcode](https://mp.weixin.qq.com/s/gLK4-K_PT3ii89OO3HQ1Gg)）
 10. 悬浮按钮组件 （[react-native-action-button](http://mp.weixin.qq.com/s/bsj2QxKflsNTpsFheGfMaA)）
+11. 日期时间选择组件 （[react-native-datepicker](http://mp.weixin.qq.com/s/bsj2QxKflsNTpsFheGfMaA)）
 
 ![截图](https://raw.githubusercontent.com/forrest23/ReactNativeComponents/master/image/screenshot.png)
 
